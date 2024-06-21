@@ -11,7 +11,7 @@
 ## Herramientas y lenguajes 📌
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,dart,java,nodejs,flutter,androidstudio,html,css,vscode,androidstudio,docker,flask,postgres,vue,spring boot,aws,postman,py,raspberrypi,idea,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,dart,java,nodejs,flutter,androidstudio,html,css,vscode,androidstudio,docker,flask,postgres,vue,spring,aws,postman,py,raspberrypi,idea,&theme=dark" />
   </a>
 </p>
 
