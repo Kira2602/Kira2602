@@ -20,6 +20,8 @@
 <div align="center">
   <a href="https://github.com/Kira2602/LibreriaSheccidABM.git" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira2602&repo=libreriasheccidabm&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
   <a href="https://github.com/Kira2602/RC_PUZZLE.git" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira2602&repo=rc_puzzle&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
+  <a href="https://github.com/Kira2602/iot_garaje_inteligente.git" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira2602&repo=iot_garaje_inteligente&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a>
+   <a href="https://github.com/Kira2602/MonterDojo.git" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira2602&repo=MonterDojo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a>
 </div> 
 
 ## Redes Sociales 📱🌐 
